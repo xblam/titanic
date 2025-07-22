@@ -14,3 +14,5 @@ USEFUL FEATURES
 * class in categorical
 * cabin has many missing values
 * embarked should be one hot encoded
+* crapton of different cabins and tickets, even though most of the cabin values are missing
+* shitton of differen cabins and shitton of different tickets
