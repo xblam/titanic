@@ -56,3 +56,29 @@ TECHNIQUES:
 
 # Feature underestanding
 * 
+
+
+
+accuracy
+
+precision - out of all labeled positives how many were real positives
+
+recall - out of all real positives how many were labeled
+
+use these two together
+
+
+multi class - average these values across classes
+- can weight the results
+
+f1 score - precision and recall toghether - use with other methods
+
+
+
+curves 
+- P&R curve - precision and recall curve
+- roc - recall and fpr -  
+
+accuracy is always easy to understand
+
+the metrics and the curves give a better understanding of the types of errors the model is making, and what the tradeoffs are at each threshold level
