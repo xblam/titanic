@@ -82,3 +82,6 @@ curves
 accuracy is always easy to understand
 
 the metrics and the curves give a better understanding of the types of errors the model is making, and what the tradeoffs are at each threshold level
+
+
+when evaluating a model we should evaluate it on the raw performance, so make sure that we run predict_proba on the models that just output the binary categories
