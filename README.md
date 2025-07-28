@@ -85,3 +85,45 @@ the metrics and the curves give a better understanding of the types of errors th
 
 
 when evaluating a model we should evaluate it on the raw performance, so make sure that we run predict_proba on the models that just output the binary categories
+
+Control shift G to do to git diff mode to see what changes were made in between versions
+
+control shift e to go back to explorer view
+
+how do we handle class imbalances?
+
+how do i know which metrics to go over during gridsearch?
+
+when should i use grid searcha nd when should i use random search?
+
+what does the roc-auc curve and PR curves say about what i should do to imporve my models?
+
+what is threshold tuning and where do i change it on the models creation pipeline?
+
+what is lightgmb and catboost?
+
+what does model calibration mean
+
+what is cross validation? is it k-fold validation or is it just normal validation
+
+what is ridge regression and what is lasso regression
+
+what toher forms of vector embeddings are there, when do i use them?
+
+what are interaction items, and how do i go about chosing which feautres to use them with 
+
+
+
+# PANDAS
+
+
+what is the difference between inner merge and outer merge? - it just tells us what rows we should keep after the merge. I think the best way to do the merges is to do pd.merge(A, B, how='left', on='colname')
+- where the two columns should have the same name (rename the columns on the right table if need be)
+
+why should we use reset index? what does it do?
+
+practifef 50 ['']
+
+practice 50 ('')
+
+what does reset index do?
