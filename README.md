@@ -125,3 +125,25 @@ practice['']
 practice('')
 
 
+what does setting up the index do? is the index naturally set when we rtead a dataset? what happens
+if we have an id column and we set another column to be index?
+
+are there constraints on the types of the columns that can be our index
+
+how would we run validation on time series data?
+
+how is the split of time series data different than how we would typically split non time data?
+
+why is it important that we make time seires faetuers for predictive models?
+
+how does reset index allow us to acess the dataframe after the groupby command?
+
+how do i sort rows? what if i want to sort by more than one column? how do I sort by desdening order?
+
+how to quickly see what the inputs are for each of the pandas commands or actions?
+
+dataframe naming conventions:
+* merged
+* filtered
+* dropped
+* final
